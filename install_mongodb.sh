@@ -17,5 +17,6 @@ sudo apt-get update
 sudo apt-get install -y mongodb-org
 
 # Start MongoDB and enable it to start on boot2
+systemctl status dbus
 sudo systemctl start mongod
 sudo systemctl enable mongod
