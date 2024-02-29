@@ -20,3 +20,6 @@ ssh bastion
 
 bastion_IP = 158.160.97.167
 someinternalhost_IP = 10.128.0.8
+
+testapp_IP = 158.160.51.228
+testapp_port = 9292
