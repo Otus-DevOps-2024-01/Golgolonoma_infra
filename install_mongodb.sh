@@ -47,7 +47,7 @@ sudo mkdir -p /data/db /var/log/mongodb
 sudo chown -R mongodb:mongodb /data/db /var/log/mongodb
 
 # Start MongoDB directly (without systemd)
-sudo -u mongodb mongod --dbpath /data/db --logpath /var/log/mongodb/mongod.log --fork
+mongod --dbpath /data/db --logpath /dev/stdout
 
 # Optional: Show that MongoDB is running by listing the MongoDB process
 ps aux | grep mongod
