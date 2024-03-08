@@ -1,6 +1,5 @@
 {
-      "token": "XXXXXXXXXXXXXXXXXX",
-      "folder_id": "XXXXXXXXXXXXXXXXXX",
-      "source_image_family": "XXXXXXXXXXXXXXXXXX",
-      "service_account_key_file": "XXXXXXXXXXXXXXXXXX"
+	"key": "gfgfgfgfg",
+	"folder_id": "dfdfdfdfdfdf",
+	"source_image_family": "ubuntu-1604-lts"
 }
