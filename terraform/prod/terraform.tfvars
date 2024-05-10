@@ -1,0 +1,8 @@
+cloud_id                 = "b1gv5epv8s5utubjjdqj"
+folder_id                = "b1gjr95lpjjlsptbni8k"
+zone                     = "ru-central1-a"
+image_id                 = "fd8r45dbvtfd9g8nuf58"
+public_key_path          = "~/.ssh/appuser.pub"
+subnet_id                = "e9b40gv495c0a3iu9318"
+service_account_key_file = "/home/nurnle/git/Golgolonoma_infra/key.json"
+private_key_path         = "~/.ssh/appuser"

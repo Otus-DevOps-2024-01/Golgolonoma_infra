@@ -8,3 +8,8 @@ variable public_key_path {
 variable subnet_id {
 description = "e9b40gv495c0a3iu9318"
 }
+variable "private_key_path" {
+  description = "The path to the private SSH key to use for connecting to the instance."
+  type        = string
+  default     = "~/.ssh/appuser"
+}
