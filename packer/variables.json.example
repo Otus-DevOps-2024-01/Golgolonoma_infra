@@ -1,5 +1,6 @@
 {
-    "folder_id": "my_folder",
-    "source_image_family": "image_id",
-    "service_account_key_file": "packer/key.json"
+    "folder_id": "your_folder_id",
+    "source_image_family": "your_image_family",
+    "token": "your_yandex_cloud_token",
+    "service_account_key_file": "path_to_your_service_account_key_file"
 }
