@@ -1,6 +1,6 @@
 {
-      "token": "fwefwgfwefg",
-      "folder_id": "XXXXXXXXXXXXXXXXXX",
-      "source_image_family": "ubuntu-1604-lts",
-      "service_account_key_file": "XXXXXXXXXXXXXXXXXX"
+    "folder_id": "your_folder_id",
+    "source_image_family": "your_image_family",
+    "token": "your_yandex_cloud_token",
+    "service_account_key_file": "path_to_your_service_account_key_file"
 }
